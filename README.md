@@ -11,7 +11,7 @@ This is a bash script that takes a 4-digit integer as an argument, hashes it usi
 
 ***To run it:***
 1. Save the script
-2. Make the script executable with: `chmod +x hash_script.sh`
+2. Make the script executable with: `chmod +x hash_script`
 4. Run the script: `./hash_script.sh 5678`, where 5678 is the 4-digit integer argument. You can replace it with whatever 4-digit integer you want.
 
 This will print: 
