@@ -15,7 +15,12 @@ This is a bash script that takes a 4-digit integer as an argument, hashes it usi
 4. Run the script: `./hash_script.sh 5678`, where 5678 is the 4-digit integer argument. You can replace it with whatever 4-digit integer you want.
 
 This will print: 
-`Input: 5678`
-`Hash: [SHA-256 hash value]`
+```
+Input: 5678
+```
+
+```
+Hash: [SHA-256 hash value]
+```
 
 
